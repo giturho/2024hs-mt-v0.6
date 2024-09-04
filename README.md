@@ -1,1 +1,3 @@
-# 2024hs-mt-v0.6
+# Messtechnik HS2024
+
+Uebungsserie zur Vorlesung «Messtechnik» (HS2024)
